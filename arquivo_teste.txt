@@ -1,0 +1,3 @@
+Oi! Estamos escrevendo no arquivo.
+Essa é uma linha de teste sequêncial.
+Se você está vendo essa mensagem estou exibido em comando.

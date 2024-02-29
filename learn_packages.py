@@ -1,0 +1,3 @@
+import package_test
+from package_test import function_module_1
+function_module_1()

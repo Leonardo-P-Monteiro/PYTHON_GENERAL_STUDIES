@@ -1,0 +1,3 @@
+
+O nome dela é ${name}, ela tem ${age} anos e nasceu em ${date_birth} e vive 
+atualmente em ${city}. Ela trabalha como ${work} e recebe de salário ${wage}.

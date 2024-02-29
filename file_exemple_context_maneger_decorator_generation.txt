@@ -1,0 +1,2 @@
+Line 1
+I'm practice the context manager knowledge with the generator and decorator.
